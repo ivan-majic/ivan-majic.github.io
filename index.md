@@ -2,26 +2,30 @@
 
 ---
 
-### Research code
+### Research code repositories
 
 [Ray Intersection Model (RIM) for analysing betweenness of three spatial objects - a Python package](https://selfhealingmapsproject.github.io/RIM/)
 <img src="images/RIM_thumbnail.jpeg?raw=true" width="400"/>
 
 ---
 
-[Refined topological relations for line objects - a PostgreSQL function](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Refined topological relations for line objects - a PostgreSQL function](https://selfhealingmapsproject.github.io/Extended-topological-relations-for-line-objects/)
+<img src="images/RTRLO_thumbnail.png?raw=true"/>
 
 ---
 
 ### QGIS3 Plugins
 
-[Interface Catchment (IC)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interface Catchment (IC)](https://imajic-unimelb.github.io/IC/)
+<img src="images/IC.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+[AwaP](https://imajic-unimelb.github.io/AwaP/)
+<img src="images/awap.jpg?raw=true"/>
+
+---
+<!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,7 +35,7 @@
 
 ---
 
-
+ -->
 
 
 ---
