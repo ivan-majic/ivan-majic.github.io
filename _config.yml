@@ -4,16 +4,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have a background in Geodesy and Geoinformatics and am obtaining a PhD in Geomatics from The University of Melbourne. In my research, I specialise in Spatial Data Quality and Topological relations.  My reserach has been published in renowned journals in the fields of GIScience, Spatial Databases, Positioning, Urbanism, and Smart Cities. I have expertise in Spatial Databases and Programming in GIS, and work experience in QGIS plugin development, Linux server administration, teaching, marketing data analysis, and land surveying.
   <br><br>
   My hobbies involve, but are not limited to:
-  <ul>
-    <li> boxing
-    <li> baking sourdough breads and pizzas
-    <li> cycling (commuter)
-    <li> brewing delicious espressos
-    <li> photography
-  </ul>
+  <br> - boxing
+  <br> - baking sourdough breads and pizzas
+  <br> - cycling (commuter)
+  <br> - brewing delicious espressos
+  <br> - photography
   <br><br>
   <a href="https://www.linkedin.com/in/mrmajic/">View My LinkedIn Profile</a> 
-  <a href="https://scholar.google.com/citations?user=OH7YzVYAAAAJ&hl=en">View My Google Scholar Profile</a> 
+  <br>
+  <a href="https://scholar.google.com/citations?user=OH7YzVYAAAAJ&hl=en">View My Google Scholar Profile</a>  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-171527866-1 # your Google Analytics tracking ID here
