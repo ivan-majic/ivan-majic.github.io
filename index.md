@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ray Intersection Model (RIM) for analysing betweenness of three spatial objects](https://selfhealingmapsproject.github.io/RIM/)
+<img src="images/RIM_thumbnail.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
