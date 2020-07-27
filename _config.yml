@@ -1,6 +1,6 @@
 title: Ivan Majic # your name (or website title) here
 logo: "/images/profile_photo.jpg?raw=true" # your photo (or logo) here
-linkedin: "https://www.linkedin.com/in/mrmajic/" 
+linkedin_username: mrmajic 
 scholar: "https://scholar.google.com/citations?user=OH7YzVYAAAAJ&hl=en"  
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have a background in Geodesy and Geoinformatics and am obtaining a PhD in Geomatics from The University of Melbourne. In my research, I specialise in Spatial Data Quality and Topological relations.  My reserach has been published in renowned journals in the fields of GIScience, Spatial Databases, Positioning, Urbanism, and Smart Cities. I have expertise in Spatial Databases and Programming in GIS, and work experience in QGIS plugin development, Linux server administration, teaching, marketing data analysis, and land surveying.
