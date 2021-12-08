@@ -16,12 +16,12 @@
 
 ### QGIS3 Plugins
 
-[Interface Catchment (IC)](https://imajic-unimelb.github.io/IC/)
+[Interface Catchment (IC)](https://ivan-majic.github.io/IC/)
 <img src="images/IC.jpg?raw=true"/>
 
 ---
 
-[AwaP](https://imajic-unimelb.github.io/AwaP/)
+[AwaP](https://ivan-majic.github.io/AwaP/)
 <img src="images/awap.jpg?raw=true"/>
 
 ---
